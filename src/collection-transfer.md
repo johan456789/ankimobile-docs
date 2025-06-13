@@ -40,9 +40,7 @@ On your computer:
 3. Click the **Export​** button. Make sure to leave "All decks"
    and "Include scheduling information" turned on.
 
-4. Anki will automatically create a `collection.colpkg` file on
-   your desktop. If the file is named something else like
-   `deckname.apkg`, please see the previous step again. If it
+4. Anki will automatically create a `collection.colpkg` file on your desktop. If the file is named something else like `deckname.apkg`, please see the previous step again. If it
    is called `collection.apkg`, that will work - your Anki version
    is just old.
 

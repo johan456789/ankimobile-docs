@@ -136,9 +136,7 @@ with:
 
     idictplus://?search=txt&scheme=anki://
 
-If you type that into Safari, it will search for "mysearchtext" like
-before, but will also provide a "return" button that when pressed will
-open up Anki.
+If you type that into Safari, it will search for "mysearchtext" like before, but will also provide a "return" button that when pressed will open up Anki.
 
 By taking that text and combining it with the instructions for the
 desktop version linked above, it’s possible to have a link on your cards

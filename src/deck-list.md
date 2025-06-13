@@ -4,8 +4,7 @@ The deck list is the screen you see when you start AnkiMobile. It
 displays a list of your card decks, and provides buttons for performing
 various actions.
 
-Next to each deck, two numbers are displayed. The top, green number
-corresponds to how many cards are due to be reviewed again today. On a
+Next to each deck, two numbers are displayed. The top, green number corresponds to how many cards are due to be reviewed again today. On a
 deck you’ve never studied before, there won’t be any cards waiting for
 review. The second, blue number, corresponds to how many new cards you
 have to learn today. Anki will introduce 20 new cards a day by default,

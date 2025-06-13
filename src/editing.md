@@ -15,7 +15,7 @@ between fields.
 The toolbar has the following icons:
 
 **B I U**\
-Mark the text as bold, italics or underline.
+Mark the text as bold, italics, or underline.
 
 **Fx**\
 Remove formatting.
