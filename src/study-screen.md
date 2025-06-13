@@ -46,7 +46,7 @@ one.
 You can tap the home button to close Anki and save your progress at any
 time, whether you have completed the day’s reviews or not.
 
-If you have a Bluetooth keyboard, you can use the keyboard to review.
+If you have a bluetooth keyboard, you can use the keyboard to review.
 Space will show the answer or answer Good, and 1-4 will choose the
 answer buttons. You can also press 'r' to repeat the audio on the
 current card.
