@@ -152,7 +152,7 @@ Alters the size of the scratchpad window.
 
 **Scroll Up**\
 **Scroll Down**\
-When card content larger than one screen, scrolls up or down. Useful when using a gamepad without an analog control stick.
+When card content is larger than one screen, scrolls up or down. Useful when using a gamepad without an analog control stick.
 
 **Set Due Date**\
 Make the card a review card if it is not already one, and make it due in
@@ -188,7 +188,7 @@ Undoes the last review.
 **User Action 1-8**
 
 From 2.0.88+. An advanced feature that allows you to trigger JavaScript in the review
-screen. Please note we can not provide any assistance with using this feature, as it uses
+screen. Please note we cannot provide any assistance with using this feature, as it uses
 [JavaScript](https://docs.ankiweb.net/templates/styling.html#javascript).
 
 Some shared decks provide keyboard shortcuts to perform actions like revealing a hint,
